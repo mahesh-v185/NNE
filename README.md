@@ -93,4 +93,12 @@ MIT — see LICENSE file.
 
 <h4>In the future, I plan to extend this system with explainable AI modules and improved temporal modeling</h4>
 
+## Contact
+
+If you'd like to discuss the methodology or see a live walkthrough,
+you can reach me at:
+
+Email: mahesh9880302264.v@gmail.com
+LinkedIn: https://www.linkedin.com/in/mr-mahesh-4209b4284
+
 
