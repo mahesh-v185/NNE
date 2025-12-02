@@ -10,7 +10,8 @@
 
 ## What's included
 
-- `neuronova/engine.py` — core semantic detector + LIF spiking population + response generator.
+- `neuronova/engine.py` — core semantic detector +
+ LIF spiking population + response generator.
 - `neuronova/visualizer.py` — matplotlib visualization helpers (interactive and non-interactive modes).
 - `neuronova/cli.py` — command-line interface.
 - `neuronova/config.py` — configuration and environment variables.
@@ -90,5 +91,6 @@ MIT — see LICENSE file.
 
 If you have questions or want a walkthrough, reply to this message and I'll provide a short demonstration script and screenshots.
 
-![Uploading Screenshot 2025-12-02 224026.png…](<img width="1920" height="1020" alt="Screenshot 2025-12-02 224154" src="https://github.com/user-attachments/assets/38a6ccb9-0e52-46f9-a9b4-4d4b67078c3a" />
+(<img width="1920" height="1020" alt="Screenshot 2025-12-02 224154" src="https://github.com/user-attachments/assets/38a6ccb9-0e52-46f9-a9b4-4d4b67078c3a" />
+<img width="1920" height="1020" alt="Screenshot 2025-12-02 224026" src="https://github.com/user-attachments/assets/229e6b31-3163-43a6-9906-2899fcecb60b" />
 )
