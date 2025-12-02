@@ -1,4 +1,4 @@
-# NeuroNova — conversational emotion visualization (prototype)
+<img width="1920" height="1020" alt="Screenshot 2025-12-02 224026" src="https://github.com/user-attachments/assets/7702e9bb-4cf1-4f79-ba1b-d2e1b12a34e3" /># NeuroNova — conversational emotion visualization (prototype)
 
 **Author:** Mahesh  
 **Project:** NeuroNova semantic visual demo  
@@ -90,3 +90,5 @@ MIT — see LICENSE file.
 
 If you have questions or want a walkthrough, reply to this message and I'll provide a short demonstration script and screenshots.
 
+![Uploading Screenshot 2025-12-02 224026.png…](<img width="1920" height="1020" alt="Screenshot 2025-12-02 224154" src="https://github.com/user-attachments/assets/38a6ccb9-0e52-46f9-a9b4-4d4b67078c3a" />
+)
