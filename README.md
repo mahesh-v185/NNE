@@ -1,6 +1,7 @@
 # 🧠 NeuroNova Engine — System Architecture
 
-<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+<img width="1642" height="742" alt="Screenshot 2025-12-03 010304" src="https://github.com/user-attachments/assets/196439cd-e5f4-4e90-b813-c039ce80c888" />
+
 
 The **NeuroNova Engine** is designed as a **dual‑pipeline interaction system**, combining traditional NLP‑based emotion understanding with a lightweight **spiking neural simulation**.  
 This architecture enables the system to both *interpret* user input and *simulate* corresponding neural activation patterns for visualization and research.
